@@ -1,7 +1,7 @@
-💸 My_Money – Money Management App
+# 💸 My_Money – Money Management App
 A mobile application developed using Flutter to help users manage their finances effectively. SmartTrack provides a seamless way to record, categorize, and visualize personal income and expenses. With an intuitive interface and insightful analytics, users can build better financial habits and stay on top of their budgets.
 
-📱 Features
+## 📱 Features
 💼 Transaction Management: Easily add, edit, and delete income or expense entries with details like amount, date, category, and notes.
 
 📊 Visual Insights & Charts: Interactive pie and bar charts offer a clear breakdown of your financial activity, including daily, weekly, and monthly overviews.
@@ -18,23 +18,23 @@ A mobile application developed using Flutter to help users manage their finances
 
 🔔 Spending Reminders (Optional): Set spending goals or receive alerts when exceeding predefined budget limits. (If implemented)
 
-🛠️ Tech Stack
-Frontend & App Development
+## 🛠️ Tech Stack
+### Frontend & App Development
 Flutter: A powerful UI toolkit for building natively compiled applications for mobile from a single codebase.
 
 Dart: The core programming language used for app logic and UI development.
 
 Provider / Riverpod / Bloc: (Specify your state management approach if applicable)
 
-Storage & Database
+### Storage & Database
 Hive / SQLite / ObjectBox: Local database used for storing transactions and categories persistently on the device. (Specify which one you used)
 
-UI/UX
+### UI/UX
 Material Design: Flutter’s material widgets for a modern, intuitive user interface.
 
 Custom Widgets: Built reusable components to maintain design consistency and code reusability.
 
-🚀 How It Works
+## 🚀 How It Works
 Launch the app and input your income and expenses.
 
 Categorize each transaction and add custom notes if needed.
