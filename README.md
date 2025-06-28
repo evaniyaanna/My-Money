@@ -1,4 +1,4 @@
-💸 SmartTrack – Money Management App
+💸 My_Money – Money Management App
 A mobile application developed using Flutter to help users manage their finances effectively. SmartTrack provides a seamless way to record, categorize, and visualize personal income and expenses. With an intuitive interface and insightful analytics, users can build better financial habits and stay on top of their budgets.
 
 📱 Features
